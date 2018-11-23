@@ -1,0 +1,6 @@
+spring:
+  mail:
+    host: 127.0.0.1
+    username: baidu.depth.logger.warn
+    password:
+    default-encoding: utf-8
