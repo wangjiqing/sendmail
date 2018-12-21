@@ -1,6 +1,6 @@
-package com.baidu.depth.sendmail.controller;
+package com.sakura.sendmail.controller;
 
-import com.baidu.depth.sendmail.utils.MailUtil;
+import com.sakura.sendmail.utils.MailUtil;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;

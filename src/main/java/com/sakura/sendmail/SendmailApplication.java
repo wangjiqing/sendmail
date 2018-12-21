@@ -1,4 +1,4 @@
-package com.baidu.depth.sendmail;
+package com.sakura.sendmail;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

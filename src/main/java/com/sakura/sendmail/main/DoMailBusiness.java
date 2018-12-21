@@ -1,4 +1,4 @@
-package com.baidu.depth.sendmail.main;
+package com.sakura.sendmail.main;
 
 import javax.activation.CommandMap;
 import javax.activation.MailcapCommandMap;
